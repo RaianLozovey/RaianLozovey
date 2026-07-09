@@ -1,49 +1,108 @@
-# 👩🏻‍💻 Raian Lozovey
+# Raian Lozovey
 
 **Quality Assurance (QA) | Analista de Sistemas apaixonada por Qualidade de Software**
 
-# Sobre mim
+---
 
-Me chamo Raian Lozovey, sou formada em Análise e Desenvolvimento de Sistemas e estou em transição de carreira para Quality Assurance (QA).
+## 👩🏻‍💻 Sobre mim
 
-Ao longo da minha experiência profissional participei da implantação de projetos **ERP SAP**, atuando na análise de processos, levantamento de requisitos, validação de regras de negócio, documentação técnica e homologação de funcionalidades junto às áreas de negócio.
+🎓 Formada em **Análise e Desenvolvimento de Sistemas**.
 
-Hoje concentro meus estudos em testes manuais, testes exploratórios, documentação de casos de teste, registro de bugs, testes de APIs e automação, construindo projetos práticos para meu portfólio.
+💜 Atualmente em transição de carreira para **Quality Assurance (QA)**, com foco em testes manuais, análise de requisitos, documentação de testes e garantia da qualidade de software.
 
-Meu objetivo é contribuir para a entrega de softwares cada vez mais confiáveis, garantindo qualidade desde o entendimento dos requisitos até a validação final das funcionalidades.
+Durante minha experiência profissional participei da implantação do ERP SAP, atuando com levantamento de requisitos, validação de processos, homologação de funcionalidades, documentação técnica e comunicação entre áreas de negócio e equipes técnicas.
 
-# 🎯 Atualmente estudando
+Atualmente estou construindo um portfólio prático para demonstrar minha evolução em QA através de projetos reais, documentação e estudos contínuos.
 
-- Testes Funcionais
-- Testes Exploratórios
-- Testes de Regressão
+---
+
+## 🎯 Objetivo
+
+Busco minha primeira oportunidade como **Analista de QA**, contribuindo para a entrega de produtos confiáveis, intuitivos e de qualidade.
+
+Acredito que qualidade não significa apenas encontrar bugs, mas compreender o negócio, antecipar riscos e ajudar o time a entregar a melhor experiência possível para o usuário.
+
+---
+
+## 🚀 Atualmente estudando
+
+- ✅ Testes Funcionais
+- ✅ Testes Exploratórios
+- ✅ Testes de Regressão
+- ✅ Casos de Teste
+- ✅ Bug Report
+- ✅ Plano de Testes
+- 🔄 Jira
+- 🔄 Azure DevOps
+- 🔄 Postman
+- 🔄 SQL para QA
+- 🔄 Playwright
+
+---
+
+## 📂 Projetos
+
+📌 QA Journey
+
+Minha jornada prática de estudos em Quality Assurance.
+
+---
+
+📌 SauceDemo
+
+Projeto completo contendo:
+
 - Casos de Teste
-- Bug Report
-- Jira
-- Azure DevOps
-- Postman
-- SQL para QA
-- Playwright (próximo passo)
-
-# O que você encontrará aqui  📂
-
-- Projetos práticos de QA
-- Casos de teste
-- Planos de teste
-- Registro de bugs
+- Plano de Testes
+- Bug Reports
 - Evidências
-- Testes exploratórios
-- Estudos de APIs
-- Exercícios de SQL
-- Automação de testes (em desenvolvimento)
+- Massa de Testes
+- Relatório de Execução
 
-# 🛠 Ferramentas e Tecnologias 
+---
+
+📌 Próximos Projetos
+
+- Mercado Livre
+- Spotify
+- Nubank
+- API Testing
+- SQL para QA
+- Automação de Testes
+
+---
+
+## 🛠 Ferramentas
 
 - Git
 - GitHub
 - SAP ERP
 - TopDesk
-- Jira (estudando)
-- Azure DevOps (estudando)
-- Postman (estudando)
-- SQL (estudando)
+- Jira (em aprendizado)
+- Azure DevOps (em aprendizado)
+- Postman (em aprendizado)
+
+---
+
+## 📚 Conhecimentos
+
+- Quality Assurance
+- Testes Funcionais
+- Testes Exploratórios
+- Testes de Regressão
+- Casos de Teste
+- Bug Reports
+- Homologação
+- Documentação Técnica
+- Análise de Requisitos
+- Metodologias Ágeis
+
+---
+
+## 🌱 Em constante evolução
+
+Cada projeto deste repositório representa um passo da minha transição para a área de QA.
+
+Meu objetivo não é apenas estudar teoria, mas praticar situações reais para desenvolver uma visão analítica e entregar softwares com mais qualidade.
+
+Obrigado por visitar meu perfil! 😊

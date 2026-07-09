@@ -100,9 +100,9 @@ Projeto completo contendo:
 ---
 ## 📫 Contato
 
-💼 LinkedIn https://www.linkedin.com/in/raian-lozovey/
-📧 Email raianlozovey@gmail.com
-📍 Palhoça - SC
+- 💼 LinkedIn https://www.linkedin.com/in/raian-lozovey/
+- 📧 Email raianlozovey@gmail.com
+- 📍 Palhoça - SC
 
 ---
 ## 🌱 Em constante evolução

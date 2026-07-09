@@ -98,7 +98,13 @@ Projeto completo contendo:
 - Metodologias Ágeis
 
 ---
+## 📫 Contato
 
+💼 LinkedIn https://www.linkedin.com/in/raian-lozovey/
+📧 Email raianlozovey@gmail.com
+📍 Palhoça - SC
+
+---
 ## 🌱 Em constante evolução
 
 Cada projeto deste repositório representa um passo da minha transição para a área de QA.
